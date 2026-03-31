@@ -210,7 +210,7 @@ nav {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(186, 142, 35, 0.9), rgba(186, 142, 35, 0.9)),
+  background: linear-gradient(rgba(85, 63, 3, 0.9), rgba(85, 63, 3, 0.9)),
     url("/placeholder.svg?height=600&width=1200") center / cover;
   padding: 8rem 0 4rem;
   margin-top: 72px;
